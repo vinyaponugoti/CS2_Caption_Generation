@@ -1,0 +1,1 @@
+The flickr30k-images dataset do not fit on github due to its size, but it can be accessed through this link https://drive.google.com/drive/folders/1ye6XsPeA9_LKVxbcmmriqXtG1ADnkz-F?usp=sharing) in flickr30k-images.tar.gz and can be accessed once downloaded.
