@@ -1,6 +1,6 @@
 # Automatic Caption Generation for the Visually Impaired
 
-This case study explores how machine learning can be used to help the visually impaired and explores if there limitations to the current models/data available. 
+This case study explores how machine learning can be used to help the visually impaired and explores if there are limitations to the current models/data available. 
 
 ## Hook Document
 Describes the prompt, data, and deliverable for the student assigned to the case study.
