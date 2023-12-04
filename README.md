@@ -1,1 +1,1 @@
-# CS2_Caption_Generation
+# Automatic Caption Generation for the Visually Impaired
